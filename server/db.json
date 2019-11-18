@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "first_name": "ff",
+      "last_name": "2",
+      "birth_day": "2",
+      "phone": "2",
+      "entry": "rr",
+      "id": 2
+    },
+    {
+      "first_name": "3",
+      "last_name": "3",
+      "birth_day": "3",
+      "phone": "3",
+      "entry": "789",
+      "id": 3
+    },
+    {
+      "first_name": "4",
+      "last_name": "4",
+      "birth_day": "4",
+      "phone": "4",
+      "id": 4,
+      "entry": "12/03/19"
+    }
+  ]
+}
